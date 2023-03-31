@@ -1,16 +1,31 @@
-### Hi there 👋
 
-<!--
-**KDubicki/KDubicki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Kamil
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## Who I am?
+
+I am an ICT student at Poznan University of Technology in Poland. I am passionate about exploring new technology and have a particular interest in CI/CD, as it can improve software development and deployment. I also make time to train at the gym and participate in meetings with other.
+## 🛠 Languages and tools
+
+### Familiar with
+
+[![My Skills](https://skillicons.dev/icons?i=js,python,react,html,css,sass,linux)](https://skillicons.dev)
+
+
+### Some experient from university or hobbistics
+
+[![My Skills](https://skillicons.dev/icons?i=ts,docker,bash,cpp,php,laravel,symfony,mysql,mongo)](https://skillicons.dev)
+## Links to conferences that I like to watch from time to time
+
+The links contain recordings from conferences such as Azure Summit, Pytech Summit, Dev.js and many more
+
+https://www.youtube.com/@konferencjaonline-canal1162/streams
+https://www.youtube.com/@konferencjaonline-canal2844/streams
+https://www.youtube.com/@konferencjaonline-canal337/streams
+https://www.youtube.com/@konferencjaonline-canal421/streams
+
+## I really want to learn in the near future
+
+[![My Skills](https://skillicons.dev/icons?i=ansible,kubernetes,jenkins,aws,terraform)](https://skillicons.dev)
