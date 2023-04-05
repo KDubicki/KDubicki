@@ -20,11 +20,11 @@ I am an ICT student at Poznan University of Technology in Poland. I am passionat
 ## Links to conferences that I like to watch from time to time
 
 The links contain recordings from conferences such as Azure Summit, Pytech Summit, Dev.js and many more
+[Conferences_1](https://www.youtube.com/@konferencjaonline-canal1162/streams)\
+[Conferences_2](https://www.youtube.com/@konferencjaonline-canal2844/streams)\
+[Conferences_3](https://www.youtube.com/@konferencjaonline-canal337/streams)\
+[Conferences_4](https://www.youtube.com/@konferencjaonline-canal421/streams)
 
-https://www.youtube.com/@konferencjaonline-canal1162/streams
-https://www.youtube.com/@konferencjaonline-canal2844/streams
-https://www.youtube.com/@konferencjaonline-canal337/streams
-https://www.youtube.com/@konferencjaonline-canal421/streams
 
 ## I really want to learn in the near future
 
