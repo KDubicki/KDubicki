@@ -19,7 +19,7 @@ I am an ICT student at Poznan University of Technology in Poland. I am passionat
 [![My Skills](https://skillicons.dev/icons?i=ts,docker,bash,cpp,php,laravel,symfony,mysql,mongo)](https://skillicons.dev)
 ## Links to conferences that I like to watch from time to time
 
-The links contain recordings from conferences such as Azure Summit, Pytech Summit, Dev.js and many more
+The links contain recordings from conferences such as Azure Summit, Pytech Summit, Dev.js and many more\
 [Conferences_1](https://www.youtube.com/@konferencjaonline-canal1162/streams)\
 [Conferences_2](https://www.youtube.com/@konferencjaonline-canal2844/streams)\
 [Conferences_3](https://www.youtube.com/@konferencjaonline-canal337/streams)\
