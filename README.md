@@ -28,7 +28,7 @@ The links contain recordings from conferences such as Azure Summit, Pytech Summi
 
 ## One project i'am liitle pround
 
-I'm proud not note because of technical realisation but results.
+I'm proud not because of technical realisation but results.
 [Phishing](https://github.com/KDubicki/Phishing)
 
 ## Some games I created to train in my free time
