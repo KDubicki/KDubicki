@@ -26,6 +26,15 @@ The links contain recordings from conferences such as Azure Summit, Pytech Summi
 [Conferences_4](https://www.youtube.com/@konferencjaonline-canal421/streams)
 
 
+## One project i'am liitle pround
+
+I'm proud not note because of technical realisation but results.
+[Phishing](https://github.com/KDubicki/Phishing)
+
+## Some games I created to train in my free time
+<a href="https://kdubicki.github.io/TypingSpeed/"><img src="typing_speed.png" alt="typing speed game" height="200px"/></a>
+<a href="https://kdubicki.github.io/Tic-Toc-Toe/"><img src="tictoctoe.png" alt="tic-toc-toegame" height="200px"/></a>
+
 ## I really want to learn in the near future
 
 [![My Skills](https://skillicons.dev/icons?i=ansible,kubernetes,jenkins,aws,terraform)](https://skillicons.dev)
